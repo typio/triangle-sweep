@@ -1,1 +1,1 @@
-# triangle-sweep
+# Triangle Sweep
